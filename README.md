@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+  Soy Desarrollador Junior;  
+
+  Mi especialidad es el back-end; 
+
+  Soy mejor con java, spring boot & mysql, enrtre otras tecnologías;
+
+  Disponible para oferta de empleo;
+
+
 <!--
 **JuanMauricioToro/JuanMauricioToro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
