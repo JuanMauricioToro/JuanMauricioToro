@@ -6,7 +6,7 @@
 
   Soy mejor con java, spring boot & mysql, enrtre otras tecnologías;
 
-  Disponible para oferta de empleo;
+  Disponible para oferta de empleo.
 
 
 <!--
